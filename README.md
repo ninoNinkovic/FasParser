@@ -20,4 +20,5 @@ Update history:
     2. add ID-rename function in "Sort-ID" section;
     3. improve the alignment cut function in "Fas-Filter" section ;
     4. improve the alignment filtration based on seq length;
+    5. optimize code
     
