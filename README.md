@@ -9,3 +9,14 @@ Sun Yan-Bo, FasParser: a package for manipulating sequence data, Zoological Rese
 
 Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
 Kunming Institute of Zoology, Chinese Academy of Sciences
+
+
+Update history:
+
+[Version 1.2.0]
+1. add classification function in the "Sort-ID" section;
+2. add ID-rename function in "Sort-ID" section;
+3. improve the alignment cut function in "Fas-Filter" section ;
+4. improve the alignment filtration based on seq length;
+Sun Yan-Bo
+2017-03-11.
