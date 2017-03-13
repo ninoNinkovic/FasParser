@@ -7,9 +7,10 @@ Citation:
 Sun Yan-Bo, FasParser: a package for manipulating sequence data, Zoological Research
 
 
-Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
+    Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
 
-Kunming Institute of Zoology, Chinese Academy of Sciences
+    Kunming Institute of Zoology, Chinese Academy of Sciences
+
 
 
 
@@ -17,7 +18,7 @@ Update history:
 
 [Version 1.2.1] 2017-03-13
 
-    1. improve the sort function with user provided ID list, which can replace the raw IDs with provided IDs;
+    1. improve the sort function with user provided ID list, which can replace the raw IDs;
     2. remove some bugs
 
 [Version 1.2.0] 2017-03-11
