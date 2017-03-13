@@ -12,13 +12,19 @@ Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
 Kunming Institute of Zoology, Chinese Academy of Sciences
 
 
+
 Update history:
 
-[Version 1.2.1] 2017-03-11
+[Version 1.2.1] 2017-03-13
+
+    1. improve the sort function with user provided ID list;
+    2. remove some bugs
+
+[Version 1.2.0] 2017-03-11
 
     1. add classification function in the "Sort-ID" section;
     2. add ID-rename function in "Sort-ID" section;
-    3. improve the sort function with user provided ID list;
+    3. 
     4. improve the alignment cut function in "Fas-Filter" section ;
     5. improve the alignment filtration based on seq length;
     6. optimize codes
