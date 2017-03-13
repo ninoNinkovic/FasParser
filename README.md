@@ -18,7 +18,8 @@ Update history:
 
     1. add classification function in the "Sort-ID" section;
     2. add ID-rename function in "Sort-ID" section;
-    3. improve the alignment cut function in "Fas-Filter" section ;
-    4. improve the alignment filtration based on seq length;
-    5. optimize code
+    3. improve the sort function with user provided ID list;
+    4. improve the alignment cut function in "Fas-Filter" section ;
+    5. improve the alignment filtration based on seq length;
+    6. optimize codes
     
