@@ -14,12 +14,16 @@ Sun Yan-Bo, FasParser: a package for manipulating sequence data, Zoological Rese
 
 
 
+
+
 Update history:
 
 [Version 1.2.1] 2017-03-13
 
     1. improve the sort function with user provided ID list, which can replace the raw IDs;
-    2. remove some bugs
+    2. improve the extraction speed from large FASTA file;
+    3. add Clear buttons for convenient operation；
+    4. fix bugs
 
 [Version 1.2.0] 2017-03-11
 
