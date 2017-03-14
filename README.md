@@ -7,23 +7,21 @@ Citation:
 Sun Yan-Bo, FasParser: a package for manipulating sequence data, Zoological Research
 
 
-    Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
+                                                                    Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
 
-    Kunming Institute of Zoology, Chinese Academy of Sciences
-
-
-
-
-
+                                               Kunming Institute of Zoology, Chinese Academy of Sciences
+                                               
+                                               
+    
 
 Update history:
 
 [Version 1.2.1] 2017-03-13
 
     1. improve the sort function with user provided ID list, which can replace the raw IDs;
-    2. improve the extraction speed from large FASTA file;
+    2. improve the extraction function for large FASTA file;
     3. add Clear buttons for convenient operation；
-    4. fix bugs
+    4. optimize codes (flexibility and simplicity);
 
 [Version 1.2.0] 2017-03-11
 
@@ -31,5 +29,5 @@ Update history:
     2. add ID-rename function in "Sort-ID" section;
     3. improve the alignment cut function in "Fas-Filter" section ;
     4. improve the alignment filtration based on seq length;
-    5. optimize codes
+    5. fix bugs
     
