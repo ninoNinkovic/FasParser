@@ -18,7 +18,7 @@ Update history:
 
 [Version 1.2.1] 2017-03-13
 
-    1. improve the sort function with user provided ID list, which can replace the raw IDs;
+    1. improve the sort function with user provided ID list;
     2. improve the extraction function for large FASTA file;
     3. add Clear buttons for convenient operation；
     4. optimize codes (flexibility and simplicity);
@@ -31,3 +31,4 @@ Update history:
     4. improve the alignment filtration based on seq length;
     5. fix bugs
     
+[Version 1.0.0] 2017-02-28
