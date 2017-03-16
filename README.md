@@ -7,9 +7,9 @@ Citation:
 Sun Yan-Bo (2017) FasParser: a package for manipulating sequence data, Zoological Research (Under review)
 
 
-                                                                                      Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
+                                                                              Sun Yan-Bo (sunyanbo@mail.kiz.ac.cn)
 
-                                                                 Kunming Institute of Zoology, Chinese Academy of Sciences
+                                                         Kunming Institute of Zoology, Chinese Academy of Sciences
                                                
                                                
     
