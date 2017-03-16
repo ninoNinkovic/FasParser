@@ -72,6 +72,7 @@ This program is designed to construct the alignment for multiple FASTA files and
     3. add Clear buttons for convenient operation;
     4. optimize codes (flexibility and simplicity);
     5. fix some bugs
+    6. add version check function;
 
 [Version 1.2.0] 2017-03-11
 
