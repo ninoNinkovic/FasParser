@@ -73,6 +73,7 @@ This program is designed to construct the alignment for multiple FASTA files and
     4. optimize codes (flexibility and simplicity);
     5. fix some bugs
     6. add version check function;
+    7. improve align function for folder with space(s)
 
 [Version 1.2.0] 2017-03-11
 
