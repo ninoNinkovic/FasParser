@@ -66,7 +66,7 @@ A computer software package called FasParser has been developed for manipulating
 
 ## Update history:
 
-[Version 1.2.1] 2017-03-16
+[Version 1.2.1] 2017-03-20
 
 	*1 improve the sort function with user provided ID list;
 	*2 improve the extraction function for large FASTA file;
