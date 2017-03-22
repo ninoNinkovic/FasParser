@@ -66,7 +66,7 @@ This program is designed to construct the alignment for multiple FASTA files and
 
 ## Update history:
 
-[Version 1.2.1] 2017-03-20
+[Version 1.0.2] 2017-03-22
 
 	*1 improve the sort function with user provided ID list;
 	*2 improve the extraction function for large FASTA file;
@@ -76,7 +76,7 @@ This program is designed to construct the alignment for multiple FASTA files and
 	*6 add version check function;
 	*7 improve align function for folder with space(s)
 
-[Version 1.2.0] 2017-03-11
+[Version 1.0.1] 2017-03-11
 
 	*1 add classification function in the "Sort-ID" section;
 	*2 add ID-rename function in "Sort-ID" section;
