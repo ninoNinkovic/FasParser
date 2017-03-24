@@ -60,7 +60,7 @@ This program is designed to construct the alignment for multiple FASTA files and
 
 ## Citation:
 
-	*Sun Yan-Bo (2017) FasParser: a package for manipulating sequence data. Zoological Research (Under review)
+	*Sun Yan-Bo (2017) FasParser: a package for manipulating sequence data. Zoological Research (Accepted)
 
 
 
@@ -68,20 +68,20 @@ This program is designed to construct the alignment for multiple FASTA files and
 
 [Version 1.0.2] 2017-03-22
 
-	*1 improve the sort function with user provided ID list;
-	*2 improve the extraction function for large FASTA file;
-	*3 add Clear buttons for convenient operation;
-	*4 optimize codes (flexibility and simplicity);
-	*5 fix some bugs
-	*6 add version check function;
-	*7 improve align function for folder with space(s)
+	1 improve the sort function with user provided ID list;
+	2 improve the extraction function for large FASTA file;
+	3 add Clear buttons for convenient operation;
+	4 optimize codes (flexibility and simplicity);
+	5 fix some bugs
+	6 add version check function;
+	7 improve align function for folder with space(s)
 
 [Version 1.0.1] 2017-03-11
 
-	*1 add classification function in the "Sort-ID" section;
-	*2 add ID-rename function in "Sort-ID" section;
-	*3 improve the alignment cut function in "Fas-Filter" section ;
-	*4 improve the alignment filtration based on seq length;
-	*5 fix bugs
+	1 add classification function in the "Sort-ID" section;
+	2 add ID-rename function in "Sort-ID" section;
+	3 improve the alignment cut function in "Fas-Filter" section ;
+	4 improve the alignment filtration based on seq length;
+	5 fix bugs
     
 [Version 1.0.0] 2017-02-28
