@@ -66,6 +66,13 @@ This program is designed to construct the alignment for multiple FASTA files and
 
 ## Update history:
 
+[Version 1.1.0] 2017-03-28
+
+	1 add the getORF function into this package;
+	2 orf can be get according to ref pep seq(s);
+	3 optimize some subfunctions;
+	4 fix some GUI errors
+
 [Version 1.0.2] 2017-03-22
 
 	1 improve the sort function with user provided ID list;
