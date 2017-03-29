@@ -80,8 +80,7 @@ XM_006141264	XP_006141326
 
 ## Citation:
 
-Sun Yan-Bo **FasParser: a package for manipulating sequence data**. *Zoological Research* 38**(2)**: 1-11, 2017
-
+**Sun Yan-Bo** FasParser: a package for manipulating sequence data. ***Zoological Research*** 38(2): 1-11, 2017
 
 
 ## Update history:
