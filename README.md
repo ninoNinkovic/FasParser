@@ -61,10 +61,10 @@ This program is designed to construct the alignment for multiple FASTA files and
 
 1. This program is designed to identify the ORF for cDNA sequence(s). The cDNA sequences can be organized as a FASTA file or single sequence. There are three choice to obtain the ORFs: a) is to get the longest one if there are present more than one potential ORF in the input cDNA sequence; b) is to get all the potential ORF sequences; and c) to get the most similar ORF to one/more protein sequences.
 2. For identifying ORFs for a FASTA file, if all the sequences in the file encode homologous proteins, only a single reference protein sequence (paste into the below textbox) can be used to get the homologous ORFs for all the sequences. 
-3. If the sequences in FASTA file encode different proteins, like all the cDNA sequences of human genome, the reference protein sequences should be also save into FASTA file and then taken as another input for this program. Moreover, an ID map file should be also provided to tell the program which protein sequences is used as reference seq for which cDNA. For example: 
-		1. XM_014583262	XP_014438748 
-		2. XM_006166216	XP_006166278 
-		3. XM_006141264	XP_006141326 
+3. If the sequences in FASTA file encode different proteins, like all the cDNA sequences of human genome, the reference protein sequences should be also save into FASTA file and then taken as another input for this program. Moreover, an ID map file should be also provided to tell the program which protein sequences is used as reference seq for which cDNA. For example: <br>
+		1. XM_014583262	XP_014438748 <br>
+		2. XM_006166216	XP_006166278 <br>
+		3. XM_006141264	XP_006141326 <br>
 		4. ...	...<br>
 	*Please note that the 1st and 2nd columns must be IDs for cDNA and protein, respectively.
 
