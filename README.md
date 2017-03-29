@@ -57,6 +57,17 @@ This program is designed to construct the alignment for multiple FASTA files and
 2. In this program, we also provide a function to cut the raw alignment by removing the columns with many gaps (¡®-¡¯). This function can also fill up the missing data (with ¡®N¡¯) at the beginning and end of an alignment, which is useful for some phylogenetic analyses. 
 3. In addition, this section could also provide a statistic summary of a raw alignment, such as showing if there are one or more bad sequences (short) in an alignment and the length of gap-free blocks.
 
+## [Section 8]: Open Reading Frame identification (`getORF`):
+
+1. This program is designed to identify the ORF for cDNA sequence(s). The cDNA sequences can be organized as a FASTA file or single sequence. There are three choice to obtain the ORFs: a) is to get the longest one if there are present more than one potential ORF in the input cDNA sequence; b) is to get all the potential ORF sequences; and c) to get the most similar ORF to one/more protein sequences.
+2. For identifying ORFs for a FASTA file, if all the sequences in the file encode homologous proteins, only a single reference protein sequence (paste into the below textbox) can be used to get the homologous ORFs for all the sequences. 
+3. If the sequences in FASTA file encode different proteins, like all the cDNA sequences of human genome, the reference protein sequences should be also save into FASTA file and then taken as another input for this program. Moreover, an ID map file should be also provided to tell the program which protein sequences is used as reference seq for which cDNA. For example: 
+		1. XM_014583262	XP_014438748 
+		2. XM_006166216	XP_006166278 
+		3. XM_006141264	XP_006141326 
+		4. ...	...<br>
+	*Please note that the 1st and 2nd columns must be IDs for cDNA and protein, respectively.
+
 
 ## Citation:
 
