@@ -29,9 +29,9 @@ This program ¡°Cmp-2Align¡± was designed to compare different alignments of a sa
 
 1. This program will allow users to sort their FASTA files according to either the ID names, sequence lengths, or a provided list of IDs. Please note that the ID is recognized from the first continuous string of the raw ID. For example, the raw ID in a FASTA file is: 'Uma_R000001.2 locus=scaffold79:384179:406202:-'. You can use the ID 'Uma_R000001.2' to search its sequence, sometime the the ID 'Uma_R000001' is also ok if there is only targeted ID. If the provided IDs cannot be recognized, there will be no sequence reported.<br>
 2. With the provided ID list, you can also rename the sequence IDs. To achieve that, the ID list should have two columns, the first column refers to the raw ID, and the second column refers to the new ID, as below:<br>
-&#8194* Uma_R000001.2    R000001.2<br>
-&#8194* Uma_R000003.2<br>
-&#8194* Uma_R000002.2    R000002<br>
+&#8194;Uma_R000001.2    R000001.2<br>
+&#8194;Uma_R000003.2<br>
+&#8194;Uma_R000002.2    R000002<br>
 3. In addition, this section also provides a classification function, which means that you can use one or more keywords to extract sequences from a raw FASTA file and save them into separate FASTA files. The keywords can be the genus name, species name, or any words that are present in the raw IDs.
 
 
@@ -62,16 +62,16 @@ This program is designed to construct the alignment for multiple FASTA files and
 1. This program is designed to identify the ORF for cDNA sequence(s). The cDNA sequences can be organized as a FASTA file or single sequence. There are three choice to obtain the ORFs: a) is to get the longest one if there are present more than one potential ORF in the input cDNA sequence; b) is to get all the potential ORF sequences; and c) to get the most similar ORF to one/more protein sequences.
 2. For identifying ORFs for a FASTA file, if all the sequences in the file encode homologous proteins, only a single reference protein sequence (paste into the below textbox) can be used to get the homologous ORFs for all the sequences. 
 3. If the sequences in FASTA file encode different proteins, like all the cDNA sequences of human genome, the reference protein sequences should be also save into FASTA file and then taken as another input for this program. Moreover, an ID map file should be also provided to tell the program which protein sequences is used as reference seq for which cDNA. For example: <br>
-&#8194* XM_014583262	XP_014438748 <br>
-&#8194* XM_006166216	XP_006166278 <br>
-&#8194* XM_006141264	XP_006141326 <br>
-&#8194* ...	...<br>
+&#8194;XM_014583262	XP_014438748 <br>
+&#8194;XM_006166216	XP_006166278 <br>
+&#8194;XM_006141264	XP_006141326 <br>
+&#8194;...	...<br>
 	*Please note that the 1st and 2nd columns must be IDs for cDNA and protein, respectively.
 
 
 ## Citation:
 
-	&#8194Sun Yan-Bo FasParser: a package for manipulating sequence data. Zoological Research 38(2): 1-11, 2017
+	&#8194;Sun Yan-Bo FasParser: a package for manipulating sequence data. Zoological Research 38(2): 1-11, 2017
 
 
 
