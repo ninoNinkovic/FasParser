@@ -103,7 +103,8 @@ A computer software package called FasParser has been developed for manipulating
 1. add the getORF function into this package;
 1. orf can be get according to ref pep seq(s);
 1. optimize some subfunctions;
-1. fix some GUI errors
+1. fix some GUI errors;
+1. improve the GAP-cut function in `Fas-Filter`;
 
 [Version 1.0.2] 2017-03-22
 
