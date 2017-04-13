@@ -92,7 +92,7 @@ A computer software package called FasParser has been developed for manipulating
 
 ### [Citation]: ###
 
-**Sun Yan-Bo** FasParser: a package for manipulating sequence data. ***Zoological Research*** 38(2): 1-11, 2017
+**Sun Yan-Bo** FasParser: a package for manipulating sequence data. ***Zoological Research*** 38(2): 110-112, 2017
 
 ----------
 
