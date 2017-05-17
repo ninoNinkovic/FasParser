@@ -98,6 +98,14 @@ A computer software package called FasParser has been developed for manipulating
 
 ### [Update history]: ###
 
+[Version 1.2.0] 2017-05-17
+1. add Align&Compare function in 'Cmp-2Seq': can handle 2 unaligned sequences;
+2. fix bugs in dn/ds estimate when seq length not multiples of 3;
+3. fix bugs in format convertion when folder name has space(s);
+4. fix some UI errors;
+5. improve sort function with seq Length (descending or ascending);
+6. improve the display of some results
+
 [Version 1.1.0] 2017-03-28
 
 1. add the getORF function into this package;
