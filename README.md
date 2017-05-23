@@ -98,6 +98,10 @@ A computer software package called FasParser has been developed for manipulating
 
 ### [Update history]: ###
 
+[Version 1.2.1] 2017-05-23
+1. add auto-update function
+2. speed-up the filter functions
+
 [Version 1.2.0] 2017-05-17
 1. add Align&Compare function in 'Cmp-2Seq': can handle 2 unaligned sequences;
 2. fix bugs in dn/ds estimate when seq length not multiples of 3;
