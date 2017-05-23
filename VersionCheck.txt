@@ -1,2 +1,2 @@
 CurrentVersion	1.2.1
-SetupProgram	https://raw.githubusercontent.com/Sun-Yanbo/FasParser/master/FasParser1.2.0_setup.exe
+SetupProgram	https://raw.githubusercontent.com/Sun-Yanbo/FasParser/master/FasParser1.2.1_setup.exe
