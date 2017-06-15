@@ -8,7 +8,8 @@ A computer software package called FasParser has been developed for manipulating
 **Sun Yan-Bo** (*sunyanbo@mail.kiz.ac.cn*)
 
 **Kunming Institute of Zoology, Chinese Academy of Sciences**
-**DNA-DNA GIF was from https://dribbble.com/shots/1220924-DNA-RNA-GIF
+
+**DNA-RNA GIF was from https://dribbble.com/shots/1220924-DNA-RNA-GIF
 
 ----------
 
