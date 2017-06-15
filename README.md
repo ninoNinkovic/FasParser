@@ -9,7 +9,7 @@ A computer software package called FasParser has been developed for manipulating
 
 **Kunming Institute of Zoology, Chinese Academy of Sciences**
 
-**DNA-RNA GIF was from https://dribbble.com/shots/1220924-DNA-RNA-GIF**
+**GIF picture at the Home page of FasParser was from https://dribbble.com/shots/1220924-DNA-RNA-GIF**
 
 ----------
 
