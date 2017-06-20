@@ -99,6 +99,9 @@ A computer software package called FasParser has been developed for manipulating
 ----------
 
 ### [Update history]: ###
+[Version 1.2.2] 2017-06-20
+1. fix a small error in `MergeFas`
+2. fix a UI error
 
 [Version 1.2.1] 2017-05-23
 1. add auto-update function
